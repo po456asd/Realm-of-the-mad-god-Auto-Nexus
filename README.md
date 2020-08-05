@@ -8,4 +8,3 @@ Instruction :
 5.Move your mouse at around 80-99% HP then press Ctrl+Num6
 6.Press Ctrl+Num8 to make it work if you want to stop either press F11 or Ctrl+Num8
 Use F12 to exit a program
-
