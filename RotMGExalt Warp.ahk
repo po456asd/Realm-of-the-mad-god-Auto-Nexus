@@ -16,7 +16,7 @@ Loop
 {
 	If (WarpCoordx = "")
 	{
-		Tooltip, Press Ctrl+Num5 at Warp HP (Around 30`%) to save coordinates,0,0
+		Tooltip, Press Ctrl+5 at Warp HP (Around 30`%) to save coordinates,0,0
 		sleep 500
 	}
 	Else
@@ -31,7 +31,7 @@ Loop
 {
 	If (MaxHPCoordx = "")
 	{
-		Tooltip, Press Ctrl+Num6 at max HP (Around 90`%) to save coordinates,0,0
+		Tooltip, Press Ctrl+6 at max HP (Around 90`%) to save coordinates,0,0
 		sleep 500
 	}
 	Else
@@ -45,15 +45,15 @@ Loop
 
 loop2:
 loop{
-Tooltip , Auto Nexus is Idle... Press Ctrl+Num8 To Run Script,0,0
+Tooltip , Auto Nexus is Idle... Press Ctrl+8 To Run Script,0,0
 sleep 500
 }
-^Numpad8::
+^8::
 loop1:
 makeitstop = 0
 loop {
 	loop3:
-	Tooltip , Auto Nexus is working... Press Ctrl+Num9 to Stop Script,0,0
+	Tooltip , Auto Nexus is working... Press Ctrl+9 to Stop Script,0,0
 	PixelGetColor, color1, WarpCoordx, WarpCoordy, RGB
 	if(color1 = 0x545454) {	
 		loop
@@ -107,15 +107,15 @@ space::
 makeitstop := "1"
 return
 
-^Numpad9::
+^9::
 goto loop2
 return
 
-^Numpad5::
+^5::
 MouseGetPos , WarpCoordx, WarpCoordY
 return
 
-^Numpad6::
+^6::
 MouseGetPos , MaxHPCoordx, MaxHPCoordY
 return
 
