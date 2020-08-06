@@ -4,7 +4,7 @@ if you want to help consider complete my offer in realmeyes else donate money fo
 
 https://www.realmeye.com/offers-by/RizBone
 
-buymeacoff.ee/WhiteLemon
+https://buymeacoff.ee/WhiteLemon
 
 I made this because i just died on main charater btw
 
