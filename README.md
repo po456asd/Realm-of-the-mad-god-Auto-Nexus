@@ -1,5 +1,10 @@
 https://github.com/po456asd/Realm-of-the-mad-god-Auto-Nexus/releases/
 
+if you want to help consider complete my offer in realmeyes else donate money for my coffee tho
+
+https://www.realmeye.com/offers-by/RizBone
+
+buymeacoff.ee/WhiteLemon
 
 I made this because i just died on main charater btw
 
