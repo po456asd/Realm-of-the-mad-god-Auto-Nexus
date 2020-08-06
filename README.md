@@ -1,3 +1,6 @@
+https://github.com/po456asd/Realm-of-the-mad-god-Auto-Nexus/releases/
+
+
 I made this because i just died on main charater btw
 
 
